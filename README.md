@@ -1,0 +1,1 @@
+# Terraform managed Azure AKS cluster sample
